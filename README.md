@@ -1,9 +1,5 @@
-<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
-  <text y="50" font-size="30" fill="blue">
-    <animate attributeName="x" from="400" to="-400" dur="5s" repeatCount="indefinite"/>
-    Hello, I am Teja! Welcome to my GitHub!
-  </text>
-</svg>
+![Moving Text](https://github.com/Tejadovala/Tejadovala/raw/main/moving-text.svg)
+
 
 
 
