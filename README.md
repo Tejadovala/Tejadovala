@@ -4,7 +4,7 @@
 
 | Category | Skills and Icons |
 |---|---|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-000?logo=c%2B%2B&logoColor=00599C&style=for-the-badge) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge) ![Python](https://img.shields.io/badge/C%2B%2B-000?logo=c%2B%2B&logoColor=00599C&style=for-the-badge) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB&style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss&logoColor=38B2AC&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?logo=bootstrap&logoColor=7952B3&style=for-the-badge) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=339933&style=for-the-badge) ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge) ![Django](https://img.shields.io/badge/Django-000?logo=django&logoColor=0C4B33&style=for-the-badge) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=47A248&style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=336791&style=for-the-badge) ![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase&logoColor=FFCA28&style=for-the-badge) |
