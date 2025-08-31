@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Teja  
+<marquee behavior="scroll" direction="left" scrollamount="7">
+🔥 Hi, I'm Teja — Exploring MERN, Blockchain & AI 🚀
+</marquee>
+
 
 ## 💻 Tech Stack  
 
