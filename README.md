@@ -1,7 +1,5 @@
 <p align="center">
-  <marquee width="60%" direction="left" height="30px" scrollamount="7">
-    👋 Hi, I'm Teja — Exploring MERN, Blockchain & AI 🚀
-  </marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F700&center=true&vCenter=true&random=false&width=600&lines=👋+Hi%2C+I'm+Teja;MERN+Stack+Developer;Exploring+Blockchain+%26+AI;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 
